@@ -19,7 +19,7 @@ public class Ngulik1 {
     public static void main(String[] args) {
         // TODO code application logic here
         int harga,porsi,total;
-        System.out.println("Toko Ayam \n =======================");
+        System.out.println("Toko Jual Ayam \n =======================");
         System.out.println("Silahkan Pilih Ayam nya");
         System.out.println("1. Ayam Aja = 5000");
         System.out.println("2. Ayam nya gede = 10000");
